@@ -3,7 +3,7 @@
 **UX/UI 웹디자이너 · 웹퍼블리셔 · 서비스기획형 프론트엔드 주니어**
 
 사용자 흐름과 정보 구조를 정리하고, Figma 설계를 반응형 웹 UI로 구현합니다.  
-요구사항과 최종 판단은 직접 맡고, ChatGPT·Claude는 초안·구현·검사 보조 도구로 활용합니다.
+요구사항과 최종 판단은 직접 맡고, ChatGPT·Claude·Codex는 초안·구현·검사 보조 도구로 활용합니다.
 
 [포트폴리오 보기](https://kdhan0320-bot.github.io/dohan-portfolio/my-portfolio/) ·
 [작업실 저장소 보기](https://github.com/kdhan0320-bot/dohan-portfolio)
